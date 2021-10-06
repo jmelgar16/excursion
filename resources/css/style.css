@@ -1,5 +1,6 @@
 * {
   background-color: black;
+  text-align: center;
 }
 
 h1 {
@@ -7,11 +8,31 @@ h1 {
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 
 h2 {
   color: aquamarine;
   font-size: 16px;
+}
+
+#phone-vid {
   text-align: center;
+}
+
+#heading-2 {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 300px;
+  font-size: 42px;
+}
+
+#small-heading {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  color: gray;
+}
+
+#copyright {
+  text-align: right;
+  color: gray;
 }
